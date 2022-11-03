@@ -1,0 +1,5 @@
+Meu projeto utilizou apenas HTML e CSS
+não estudei Javascript ainda
+O tema Usado Foi Jogos Free to Play 
+Porem não consegui  colocar a API
+espero que gostem!!!
